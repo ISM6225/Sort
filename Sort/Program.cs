@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+    Author: Clinton Daniel
+    Date: 1/15/2019
+    Comments: This C# Console Application code demonstrates the
+              Selection Sort and Bubble Sort Algorithms. No input
+              is required for the script. It will execute without 
+              input against two pre-populated arrays. 
+*/
+
+using System;
 
 namespace Sort
 {
